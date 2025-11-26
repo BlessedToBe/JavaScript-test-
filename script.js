@@ -97,10 +97,12 @@
 
 // alert(user ?? 'Guest');
 
-let num1 = 10,
-    num2 = 20,
-    result;
+// let num1 = 10,
+//     num2 = 20,
+//     result;
 
-result ??= num1 ?? num2 ?? result;
+// result ??= num1 ?? num2 ?? result;
 
-alert(result);
+// alert(result);
+
+for(let i = 0; )
